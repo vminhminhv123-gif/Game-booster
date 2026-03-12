@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GameBooster</string>
+    <string name="engine_control_panel">⚡ ENGINE CONTROL PANEL</string>
+    <string name="engine_status">ENGINE STATUS</string>
+    <string name="activate_engine">KÍCH HOẠT ENGINE</string>
+    <string name="activate_boost">🚀 ACTIVATE BOOST</string>
+    <string name="selected_app">Selected App: %s</string>
+    <string name="no_app_selected">No app selected</string>
+    <string name="fake_lag_activated">Fake lag! Mở game để bắt đầu.</string>
+    <string name="select_app">Select Application</string>
+    <string name="no_app_available">No applications available</string>
+    <string name="permission_required">Permission required</string>
+    <string name="vpn_permission_required">VPN permission is required</string>
+    <string name="overlay_permission_required">Overlay permission is required</string>
+</resources>
